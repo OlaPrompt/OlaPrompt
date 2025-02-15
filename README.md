@@ -1,6 +1,6 @@
 **Hey there!** 👋 I'm **Ola**, a **Senior Full Stack Developer** passionate about building dynamic and scalable web applications. With expertise in **MERN, MEAN, and LAMP** stacks, I specialize in crafting seamless frontend and backend integrations to deliver high-performance solutions.  
 
-I thrive in the world of **Progressive Web Apps (PWAs)** and **serverless architectures**, focusing on optimizing performance, scalability, and efficiency. My approach blends **clean code, modern frameworks, and best development practices** to create robust and user-friendly applications.  
+I thrive in the world of **Progressive Web Apps (PWAs)** and **serverless architectures**, focusing on optimizing performance, scalability, and efficiency. My approach blends **clean code, modern frameworks, and state-of-the-art development practices** to create robust and user-friendly applications.  
 
 **Let’s build something amazing!** 🚀  
 
